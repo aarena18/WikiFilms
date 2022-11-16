@@ -36,24 +36,11 @@ require "class/user.php";
 if(isset($_POST['valid'])){
     $user = new User();
     $user->username= $_POST["username"];
-    $user->firstName= $_POST["firstName"];
-    $user->lastName= $_POST["lastName"];
     $user->email= $_POST["email"];
     $user->password= $_POST["password"];
 
     print_r($user);
 
-    /*   ---------------- INSERT VALUES DATABASE -------------------------   */
-
-    $sql = "INSERT INTO user (username, firstName, lastName, email, `password`) 
-            VALUES ('$user->username', '$user->firstName', '$user->lastName', '$user->email', '$user->password')";
-
-    if (mysqli_query($conn, $sql)) {
-        echo "Nouvel enregistrement créé avec succès";
-        header('Location: ../profil.php');
-    } else {
-        echo "Erreur : " . $sql . "<br>" . mysqli_error($conn);
-    }
 }
  
 ?>
