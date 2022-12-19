@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2901355e-8822-42b7-aff6-ec8d7aa6eb9d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/WikiFilms" beforeDir="false" afterPath="$PROJECT_DIR$/WikiFilms" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WikiFilms/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/WikiFilms/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WikiFilms/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WikiFilms/pages/homePage.php" beforeDir="false" afterPath="$PROJECT_DIR$/WikiFilms/pages/homePage.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/WikiFilms" />
+  </component>
+  <component name="ProjectId" id="2IxBsy1sd9puP5WUEgqYSMwLji5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ambrearena/Desktop/IIM_SEM_1/www/wiki_movies",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2901355e-8822-42b7-aff6-ec8d7aa6eb9d" name="Changes" comment="" />
+      <created>1671113564874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671113564874</updated>
+      <workItem from="1671113567710" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

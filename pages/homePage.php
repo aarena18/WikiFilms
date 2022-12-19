@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WikiFilms</title>
+    <link rel="stylesheet" href="">
 </head>
 <body>
     <!------------ HEADER ------------>
@@ -56,21 +57,21 @@
         <section id="card">
             <div class="cardWrapper">
                 <div class="cardElement">
-                    <div class="cardImage"></div>
+                    <div class="cardImage"><img src="https://picsum.photos/id/684/600/400?blur=5" alt=""></div>
                     <div class="cardContent">
                         <h3>blabla - Card - </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque deserunt debitis, unde rerum excepturi hic et ratione earum corporis officiis officia a, necessitatibus, aperiam id?</p>
                     </div>
                 </div>
                 <div class="cardElement">
-                    <div class="cardImage"></div>
+                    <div class="cardImage"><img src="https://picsum.photos/id/684/600/400?blur=5" alt=""></div>
                     <div class="cardContent">
                         <h3>blabla - Card - </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque deserunt debitis, unde rerum excepturi hic et ratione earum corporis officiis officia a, necessitatibus, aperiam id?</p>
                     </div>
                 </div>
                 <div class="cardElement">
-                    <div class="cardImage"></div>
+                    <div class="cardImage"><img src="https://picsum.photos/id/684/600/400?blur=5" alt=""></div>
                     <div class="cardContent">
                         <h3>blabla - Card - </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque deserunt debitis, unde rerum excepturi hic et ratione earum corporis officiis officia a, necessitatibus, aperiam id?</p>
