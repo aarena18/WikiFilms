@@ -62,7 +62,7 @@
 
             @if (Route::has('login') && Auth::check())
                 <div class="top-right links">
-                    <a href="{{ url('/home') }}">Dashboard</a>
+                    <a href="{{ url('/dashboard') }}">Profil</a>
                 </div>
             @elseif (Route::has('login') && !Auth::check())
                 <div class="top-right links">
@@ -73,32 +73,18 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Wikifilm
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://codecasts.com.br">CODECASTS [pt-BR]</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/codecasts/laravel">GitHub</a>
+                    <a href="https://laravel.com/docs">séries</a>
+                    <a href="https://laracasts.com">films</a>
+                    <a href="https://codecasts.com.br">acteurs</a>
+                    <a href="https://laravel-news.com">profil</a>
+                    
                 </div>
             </div>
         </div>
     </body>
 </html>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
